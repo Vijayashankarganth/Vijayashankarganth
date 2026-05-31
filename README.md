@@ -1,6 +1,7 @@
-# 👋 Hi, I’m @Vijayashankarganth
+# 👋 Hi, I’m @Vijayashankarganth Pandiyan
 
-- 🌱 I’m currently learning Full_Stack Development ~(MERN-Stack)
+- 🌱 Leveraging strong React.js expertise while expanding backend development skills using Node.js, Express.js, and MongoDB to deliver end-to-end web solutions.
+Building full-stack web applications using MERN Stack technologies, integrating responsive frontend interfaces with scalable backend services and databases.
 
 ## 👀 Skills 
 
@@ -13,7 +14,7 @@
 ### DataBase 
 * MongoDB
 ### Tools 
-* VS Code | Postman
+* VS Code | Postman | claude | GPT's
 
 ## 📫 Connect with me 
 * Email - vijayashankarganth.pandiyan@gmail.com
