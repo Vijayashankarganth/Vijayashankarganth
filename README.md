@@ -1,12 +1,11 @@
 # 👋 Hi, I’m @Vijayashankarganth Pandiyan
 
-- 🌱 Leveraging strong React.js expertise while expanding backend development skills using Node.js, Express.js, and MongoDB to deliver end-to-end web solutions.
-Building full-stack web applications using MERN Stack technologies, integrating responsive frontend interfaces with scalable backend services and databases.
+- 🌱 React Developer | 3+ Years Experience | React.js • TypeScript • Redux • JavaScript | Building scalable, responsive, and high-performance web applications with a focus on exceptional user experiences and clean architecture.
 
 ## 👀 Skills 
 
 ### Programming Language 
-* JavaScript 
+* JavaScript | TypeScript
 ### Front End Technologies 
 * HTML | CSS | React JS | Redux | Bootstrap
 ### Back End Technologies 
